@@ -35,5 +35,40 @@ A partir desse panorama, estabeleço três grupos de teorias sobre as causas da 
 - Teorias institucionais - Douglass North, Dahl, Sartori
 
 # Capítulo 1 - Democratização e Oposição Pública
+Robert Dahl abre o livro explicitando seu objetivo: explicar o processo de democratização - ou seja, da saída de um estado pouco plural para um estado mais plural politicamente.
 
-Texto.
+O autor propõe algumas ideias fundamentais logo no primeiro capítulo do livro. A primeira, é a descrição do ideal de democracia, que seria caracterizado pela capacidade da maior parcela da população de:
+1. Formular suas preferências;
+2. Expressá-las por meio da ação individual ou coletiva;
+3. Ter suas preferências igualmente consideradas pelo governo.
+
+Para o atingimento dessas oportunidades, são necessárias as seguintes garantias institucionais:
+1. Liberdade de associação;
+2. Liberdade de expressão;
+3. Direito ao voto;
+4. Elegibilidade;
+5. Acesso amplo a diferentes fontes de informação;
+6. Eleições livres;
+7. Instituições que criem dependência entre políticas públicas e eleições/preferências populares.
+
+Paralelamente, Dahl ressalta que o seu esse ideal democrático jamais será alcançado, sendo mais razoável então analisar o seu correspondente concreto - a poliarquia.
+
+A poliarquia (+,+) é descrita como o ponto extremo simultâneo em dois eixos:
+- Contestação pública;
+- Participação política.
+
+Os outros estados possíveis (matriz 2x2) são:
+- Hegemonias fechadas (-,-)
+- Oligarquias competitivas (+,-)
+- Hegemonias inclusivas (-,+)
+
+Dentre esses, há estágios intermediários possíveis, mas não nomeados. 
+
+Nomeados os estados existentes, o autor define as transições entre eles:
+- Acréscimo na contestação pública: liberalização
+- Acréscimo na participação política: inclusão
+- Acréscimo em ambos: democratização
+
+O autor ressalta que as nomenclaturas utilizadas no capítulo 1 se manterão mais ou menos estáveis ao longo de toda a obra, para evitar equívocos.
+
+O autor explicita ainda que a sua preocupação está principalmente focada nos processos de aumento da contestação pública, sejam eles em democratizações, liberalizações de hegemonias fechadas ou liberalizações de hegemonias inclusivas. Ainda, o foco do livro é o contexto nacional (seriam passíveis de análise sob o mesmo esquema teórico sistemas internacionais, locais ou específicos - como movimentos, empresas, igrejas etc.).
