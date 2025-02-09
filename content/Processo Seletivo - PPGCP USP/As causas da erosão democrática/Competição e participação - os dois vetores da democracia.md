@@ -36,3 +36,4 @@ A partir desse panorama, estabeleço três grupos de teorias sobre as causas da 
 
 # Capítulo 1 - Democratização e Oposição Pública
 
+Texto.
