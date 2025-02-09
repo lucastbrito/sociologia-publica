@@ -1,7 +1,7 @@
 Referência: DAHL, 1971 (Poliarquia, edição de 1997 da Edusp com prefácio de Fernando Limongi)
 
 # Prefácio, por Fernando Limongi
-Para falar da transição da democracia para um regime autoritário, é necessário definir cada um desses estados. A maioria dos estudos na da área, utilizam as definições de Poliarquia para tal - sendo ela o posicionamento nos eixos de "competição" e "participação" dentro do regime.
+Para falar da transição da democracia para um regime autoritário, é necessário definir cada um desses estados. A maioria dos estudos da área utilizam as definições de Poliarquia para tal - sendo ela o posicionamento nos eixos de "competição" e "participação" dentro do regime.
 
 Até os anos 70, a teoria dominante sobre os determinantes da democracia era a da modernização (vide Lipset), de caráter relativamente determinista, visto que a democracia seria determinada pelo nível de desenvolvimento do país, e não pelas ações de seus atores políticos.
 
