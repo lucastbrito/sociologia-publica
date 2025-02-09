@@ -1,0 +1,1 @@
+- BRANDÃO, Gildo. “Linhagens do Pensamento Político Brasileiro”. Dados – Revista de Ciências Sociais: Rio de Janeiro, Vol. 48, no 2, 2005, pp. 231 a 269.

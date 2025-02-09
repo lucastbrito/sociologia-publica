@@ -1,0 +1,2 @@
+- DAHL, Robert. (2009/1957). "Tomada de decisões em uma democracia: a Suprema Corte como uma entidade formuladora de políticas nacionais". Revista de Direito Administrativo, 252, 25–43
+- MARIANO SILVA, J. Depois da “judicialização”: um mapa bibliográfico do Supremo. Revista de Sociologia e Política, vol. 30, 2022

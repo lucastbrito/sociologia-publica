@@ -1,0 +1,2 @@
+- DU BOIS, W. E. B. "The African Roots of War". The Atlantic Monthly, vol. 115, no. 5, (May 1915), pp. 707-714.
+- FEARON, J. D. (1995). Rationalist explanations for war. International organization, 49(3),1995, 379-414.

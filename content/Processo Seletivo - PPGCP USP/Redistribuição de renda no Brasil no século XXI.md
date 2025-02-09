@@ -1,0 +1,3 @@
+- ARRETCHE, M. 2018. Democracia e redução da desigualdade econômica no Brasil: A inclusão dos outsiders. Revista Brasileira de Ciências Sociais Vol. 33 (96): 15-34.
+- KERSTENETZKY, C. 2017. Foi Um Pássaro, Foi Um Avião? Redistribuição no Brasil no século XXI. Novos Estudos CEBRAP Vol 36 (2): 15-34.
+- 

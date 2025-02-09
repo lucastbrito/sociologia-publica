@@ -1,0 +1,4 @@
+- BERTHOLINI, Frederico, and Carlos Pereira. "Pagando o preço de governar: custos de gerência de coalizão no presidencialismo brasileiro." Revista de Administração Pública 51 (2017): 528-550.
+- FREITAS, Andréa. 2016. O presidencialismo da coalizão. Rio de Janeiro: Fundação Konrad Adenauer.
+- LIMONGI, Fernando, and Argelina Figueiredo. "Bases institucionais do presidencialismo de coalizão." Lua Nova: revista de cultura e política (1998): 81-106.
+- 

@@ -1,0 +1,1 @@
+- ARENDT, Hannah. Sobre a revolução. São Paulo: Companhia das Letras, 2011 (Capítulos 1,4 e 5).
