@@ -1,6 +1,9 @@
+#ppgcp_usp
 Referência: DAHL, 1971 (Poliarquia, edição de 1997 da Edusp com prefácio de Fernando Limongi)
 
-# Prefácio, por Fernando Limongi
+A referência número 1 quando se fala em democracia na ciência política é Poliarquia de Dahl. Nas notas abaixo, estão os fichamentos que fiz de cada um dos capítulos do livro.
+
+# 0. Prefácio, por Fernando Limongi
 Para falar da transição da democracia para um regime autoritário, é necessário definir cada um desses estados. A maioria dos estudos da área utilizam as definições de Poliarquia para tal - sendo ela o posicionamento nos eixos de "competição" e "participação" dentro do regime.
 
 Até os anos 70, a teoria dominante sobre os determinantes da democracia era a da modernização (vide Lipset), de caráter relativamente determinista, visto que a democracia seria determinada pelo nível de desenvolvimento do país, e não pelas ações de seus atores políticos.
@@ -34,7 +37,7 @@ A partir desse panorama, estabeleço três grupos de teorias sobre as causas da 
 - Teorias culturais - Tocqueville, Almond & Verba, Putnam
 - Teorias institucionais - Douglass North, Dahl, Sartori
 
-# Capítulo 1 - Democratização e Oposição Pública
+# 1. Democratização e Oposição Pública
 Robert Dahl abre o livro explicitando seu objetivo: explicar o processo de democratização - ou seja, da saída de um estado pouco plural para um estado mais plural politicamente.
 
 O autor propõe algumas ideias fundamentais logo no primeiro capítulo do livro. A primeira, é a descrição do ideal de democracia, que seria caracterizado pela capacidade da maior parcela da população de:
@@ -43,13 +46,13 @@ O autor propõe algumas ideias fundamentais logo no primeiro capítulo do livro.
 3. Ter suas preferências igualmente consideradas pelo governo.
 
 Para o atingimento dessas oportunidades, são necessárias as seguintes garantias institucionais:
-1. Liberdade de associação;
-2. Liberdade de expressão;
-3. Direito ao voto;
-4. Elegibilidade;
-5. Acesso amplo a diferentes fontes de informação;
-6. Eleições livres;
-7. Instituições que criem dependência entre políticas públicas e eleições/preferências populares.
+4. Liberdade de associação;
+5. Liberdade de expressão;
+6. Direito ao voto;
+7. Elegibilidade;
+8. Acesso amplo a diferentes fontes de informação;
+9. Eleições livres;
+10. Instituições que criem dependência entre políticas públicas e eleições/preferências populares.
 
 Paralelamente, Dahl ressalta que o seu esse ideal democrático jamais será alcançado, sendo mais razoável então analisar o seu correspondente concreto - a poliarquia.
 
