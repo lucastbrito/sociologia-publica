@@ -1,6 +1,5 @@
 ---
 title: Sociologia
 ---
-
 ## Extras
-- [[Grandes nomes da Sociologia]]
+- [[grandesNomes_Sociologia]]

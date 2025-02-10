@@ -1,0 +1,5 @@
+---
+title: Grandes nomes da ciência política
+---
+- Robert Dahl (1915 - 2014)
+- Seymour Martin Lipset (1922 - 2006)

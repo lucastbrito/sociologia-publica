@@ -1,6 +1,12 @@
+---
+title: As causas da erosão democrática
+tags:
+  - democracia
+---
+
 Os meus estudos sobre o decaimento da democracia (ou a geração da sua instabilidade) começam com Poliarquia, de Robert Dahl.
 
-[[(Dahl, 1971) Poliarquia]]
+[[dahl_1971]]
 
 Em seguida, vou para o artigo Impeachment ou backsliding, da Pérez-Liñán.
 
