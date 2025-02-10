@@ -1,4 +1,5 @@
 #ppgcp_usp
+
 Referência: DAHL, 1971 (Poliarquia, edição de 1997 da Edusp com prefácio de Fernando Limongi)
 
 A referência número 1 quando se fala em democracia na ciência política é Poliarquia de Dahl. Nas notas abaixo, estão os fichamentos que fiz de cada um dos capítulos do livro.
