@@ -14,7 +14,7 @@ Daniel Martin Katz é professor de direito em Chicago Kent - College of Law (Ill
 **Graduação:** Political Science, University of Oregon
 
 # Material
-Obras:
+Obras de interesse:
 
 Blog: http://www.danielmartinkatz.com/
 Site pessoal: http://computationallegalstudies.com/
