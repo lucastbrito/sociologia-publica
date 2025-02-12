@@ -8,12 +8,12 @@ tags:
 Reinhard Bendix foi um sociólogo, cientista político e historiador alemão-americano, conhecido por seus estudos sobre desenvolvimento político, estratificação social e modernização. Lecionou na Universidade da Califórnia, Berkeley, onde influenciou profundamente a sociologia política e a teoria do desenvolvimento.
 
 # Notas pessoais
-- [Simon Schwartzman](20250211_SimonSchwartzman.md) tem Bendix como sua maior referência profissional (entrevista ao CPDOC)
+- [Simon Schwartzman](00000000_SimonSchwartzman.md) tem Bendix como sua maior referência profissional (entrevista ao CPDOC).
 
 # Formação
 **Doutorado:** Sociology, University of Chicago  
-**Mestrado:** University of Chicago
-**Graduação:** Political Science, Sociology and History, University of Chicago
+**Mestrado:** Sociology, University of Chicago
+**Graduação:** Sociology, University of Chicago
 
 # Obra
 Obras principais:

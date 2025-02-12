@@ -5,25 +5,25 @@ tags:
   - cienciapolitica
 ---
 # Minibio
-Fernando de Magalhães Papaterra Limongi é um cientista político brasileiro, professor titular aposentado do departamento de Ciência política da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (USP). Entre os seus principais
+Fernando de Magalhães Papaterra Limongi é um cientista político brasileiro, professor titular aposentado do departamento de Ciência política da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (USP). Entre os seus principais interesses estão a política comparada (classificação de regimes, modernização, poliarquia etc.) e os estudos sobre o legislativo.
 
 # Notas pessoais
-- Sérgio Simoni foi orientado por ele
-- 
+- Sérgio Simoni foi orientado por ele;
+- Na entrevista ao CPDOC, ele diz que as leituras que mais o impactaram foram:
+	- As correspondências entre John Stuart Mill e Tocqueville sobre a tirania da maioria;
+	- Capitalism and Social Democracy, de Adam Przeworski (1985);
+	- The Principles of Representative Government, de Bernard Manin (1995);
+	- Inventing the People, Edmund Morgan (1988).
 
 # Formação
 **Doutorado:** Political Science, University of Chicago (orientado por Adam Przeworski)
-**Mestrado:** Ciência Política, Unicamp ()
-**Graduação:** Political Science, Sociology and History, University of Chicago
+**Mestrado:** Ciência Política, Unicamp
+**Graduação:** Ciências Sociais, USP
 
 # Obra
 Obras principais:
-- Work and Authority in Industry (1956)
-- Nation-Building and Citizenship (1964)
-- Kings or People: Power and the Mandate to Rule (1978)
-
-Obras de interesse:
-- Max Weber: An Intellectual Portrait (1960)
-
+- Democracy and Development (2000)
+- Bases institucionais do presidencialismo de coalizão (1998)
+- Electoral incentives, parties, and budget policy (2002)
 # Referências  
-Wikipedia: [Reinhard Bendix](https://en.wikipedia.org/wiki/Reinhard_Bendix)
+BV-FAPESP: https://bv.fapesp.br/pt/pesquisador/250/fernando-de-magalhaes-papaterra-limongi/
