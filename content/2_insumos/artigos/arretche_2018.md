@@ -27,3 +27,7 @@ Apesar de reconhecer a importância das diversas dimensões de desigualdade que 
 1. Podem ser empiricamente observadas (renda)
 2. São diretamente afetadas por regras de acesso aos serviços públicos (transferências monetárias do Estado, saúde e educação)
 # A trajetória da desigualdade econômica no Brasil contemporâneo
+
+# A política das políticas de inclusão
+
+# Conclusões
