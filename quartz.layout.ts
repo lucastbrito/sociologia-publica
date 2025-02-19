@@ -27,7 +27,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Menu",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["1_rascunhos", "2_insumos", "3_produtos", "4_indices"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    }),
   ],
   right: [
     Component.Graph(),
