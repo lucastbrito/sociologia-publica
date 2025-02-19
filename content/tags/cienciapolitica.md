@@ -1,6 +1,4 @@
 ---
 title: 🏛️ Ciência Política
-description: Teste testando teste
-aliases:
-  - cienciapolitica
+description: Tudo que envolve poder e Estado
 ---
