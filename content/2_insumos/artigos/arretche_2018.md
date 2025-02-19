@@ -2,6 +2,7 @@
 title: (Arretche, 2018) Democracia e Redução da Desigualdade Econômica no Brasil
 tags:
   - ppgcp_usp
+date: 2025-02-15
 ---
 # 1. Introdução
 A introdução do artigo **"Democracia e Redução da Desigualdade Econômica no Brasil"**, de Marta Arretche, apresenta o debate teórico sobre a relação entre democracia e desigualdade econômica. Três correntes principais são discutidas:

@@ -1,4 +1,5 @@
 ---
 title: '"Uma proposição só pode ser teórica ou histórica"'
+date: 2025-02-11
 ---
 "Para Popper uma proposição pode ser ou teórica ou histórica, mas nunca ambas ao mesmo tempo. Assim pode-se afirmar que o mundo evoluiu numa certa direção (proposição histórica); podem-se também produzir hipóteses explicativas – potencialmente generalizáveis – daqueles acontecimentos (proposições teóricas), que poderão ou não tornar plausíveis certas previsões futuras sobre o mundo; mas não se pode simplesmente postular, sem mais, que o mundo se move numa determinada direção (proposição ao mesmo tempo teórica e histórica). Para a posição de Popper, ver seu A Miséria do Historicismo, esp. parte IV, caps. 30-2, pp. 112-24." - Nota de rodapé 48 de Mercado, Modernização e Democracia, de [[00000000_BrunoPWReis]]

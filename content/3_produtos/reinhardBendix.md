@@ -3,6 +3,7 @@ title: Reinhard Bendix (1916 - 1991)
 tags:
   - autor
   - sociologia
+date: 2025-02-10
 ---
 # Minibio
 Reinhard Bendix foi um sociólogo, cientista político e historiador alemão-americano, conhecido por seus estudos sobre desenvolvimento político, estratificação social e modernização. Lecionou na Universidade da Califórnia, Berkeley, onde influenciou profundamente a sociologia política e a teoria do desenvolvimento.

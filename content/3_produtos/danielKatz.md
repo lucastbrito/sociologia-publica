@@ -3,6 +3,7 @@ title: Daniel Martin Katz
 tags:
   - autor
   - direito
+date: 2025-02-11
 ---
 # Minibio
 Daniel Martin Katz é professor de direito em Chicago Kent - College of Law (Illinois Institute of Technology). Sua pesquisa está principalmente concentrada nos temas de inovação no direito e análise do direito como sistema complexo.

@@ -3,6 +3,7 @@ title: Fernando Limongi (1958 - )
 tags:
   - autor
   - cienciapolitica
+date: 2025-02-11
 ---
 # Minibio
 Fernando de Magalhães Papaterra Limongi é um cientista político brasileiro, professor titular aposentado do departamento de Ciência política da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (USP). Entre os seus principais interesses estão a política comparada (classificação de regimes, modernização, poliarquia etc.) e os estudos sobre o legislativo.

@@ -4,6 +4,7 @@ tags:
   - autor
   - cienciapolitica
   - sociologia
+date: 2025-02-10
 ---
 # Minibio
 Seymour Martin Lipset foi um sociólogo e cientista político norte-americano, conhecido por seus estudos sobre democracia, desenvolvimento político, estratificação social e comportamento eleitoral. Seus trabalhos influenciaram profundamente a sociologia política [e a teoria da modernização](00000000_ModernizacaoEDemocracia.md). Lecionou em instituições como Harvard, Stanford e George Mason University.
