@@ -26,7 +26,7 @@ const TableOfContents: QuartzComponent = ({
 
   return (
     <div class={classNames(displayClass, "toc")}>
-      <button
+      {/*<button
         type="button"
         id="toc"
         class={fileData.collapseToc ? "collapsed" : ""}
@@ -48,7 +48,7 @@ const TableOfContents: QuartzComponent = ({
         >
           <polyline points="6 9 12 15 18 9"></polyline>
         </svg>
-      </button>
+      </button>*/}
       <div id="toc-content" class={fileData.collapseToc ? "collapsed" : ""}>
         <ul class="overflow">
           {fileData.toc.map((tocEntry) => (
