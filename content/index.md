@@ -1,5 +1,6 @@
 ---
 title: Bem-vindo ao SP!
+date:
 ---
 Esse blog-repositório, que denominei Sociologia Pública, visa a armazenar meus materiais de estudos na ciência social (no singular, como gosta meu amigo Bruno P.W.R.) em suas diferentes dimensões [(Gintis, 2007)](https://www.umass.edu/preferen/gintis/Unity-BBS%20Print%20Version.pdf): economia, biologia, antropologia, sociologia, psicologia e ciência política.
 
