@@ -2,6 +2,7 @@
 title: (Arretche, 2018) Democracia e Redução da Desigualdade Econômica no Brasil
 tags:
   - ppgcp_usp
+  - cienciapolitica
 date: 2025-02-15
 ---
 # 1. Introdução

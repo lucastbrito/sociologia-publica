@@ -1,4 +1,4 @@
 ---
 title: 🏛️ Ciência Política
-description: Tudo que envolve poder e Estado
+description: Poder, Estado e escolha pública
 ---
