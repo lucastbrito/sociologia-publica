@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.PageTitle(),
-    Component.Search(),
+    Component.Darkmode(),    
   ],
   afterBody: [],
   footer: Component.Footer({
@@ -23,8 +23,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.MobileOnly(Component.Spacer()),
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+    Component.MobileOnly(Component.Spacer()),        
+  ],
+  right: [
+    // Component.Graph(),
+    Component.Search(),
     Component.Explorer({
       title: "Menu",
       filterFn: (node) => {
@@ -32,14 +37,9 @@ export const defaultContentPageLayout: PageLayout = {
         const omit = new Set(["1_rascunhos", "2_insumos", "3_produtos", "4_indices"])
         return !omit.has(node.name.toLowerCase())
       },
-      folderClickBehavior: "link",
+      folderClickBehavior: "collapse",
       folderDefaultState: "open",
-    }),
-  ],
-  right: [
-    // Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    }),    
   ],
 }
 
