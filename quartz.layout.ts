@@ -44,12 +44,18 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
     Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
+    
+  ],
+  right: [
+    Component.Search(),
     Component.Explorer({
       title: "Menu",
       filterFn: (node) => {
@@ -61,5 +67,4 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "open",
     }),
   ],
-  right: [],
 }
